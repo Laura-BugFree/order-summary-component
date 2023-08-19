@@ -29,7 +29,7 @@
 ### Links
 
 - Solution URL: [My solution](https://github.com/Laura-BugFree/order-summary-component.git)
-- Live Site URL: [live site]( https://laura-bugfree.github.io/order-summary-component/)
+- Live Site URL: [Live site]( https://laura-bugfree.github.io/order-summary-component/)
 
 ## My process
 
